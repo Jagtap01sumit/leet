@@ -1,4 +1,4 @@
-# leetcode 
+# Leetcode 
 
 
 ### 342. Power of Four
@@ -34,6 +34,9 @@ class Solution {
 n >>= 1 is shorthand for n = n >> 1.
 
 Right shifting by 1 is the same as integer division by 2 (dropping any remainder).
+
+---
+---
 ```
 | n (decimal) | n (binary) | n >> 1 (binary) | Result (decimal) |
 |-------------|------------|-----------------|------------------|
