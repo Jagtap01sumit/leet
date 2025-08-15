@@ -35,11 +35,11 @@ n >>= 1 is shorthand for n = n >> 1.
 
 Right shifting by 1 is the same as integer division by 2 (dropping any remainder).
 
----
----
 ```
 | n (decimal) | n (binary) | n >> 1 (binary) | Result (decimal) |
 |-------------|------------|-----------------|------------------|
 | 8           | 1000       | 0100            | 4                |
 | 4           | 0100       | 0010            | 2                |
 | 2           | 0010       | 0001            | 1                |
+---
+---
